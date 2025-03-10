@@ -58,6 +58,6 @@ Web server is available at http://127.0.0.1:1111
 
 ## Deploying to production
 
-Pushing to `main` will trigger deployment on https://neptune.cash/
+Pushing to `master` will trigger deployment on https://neptune.cash/
 
 Pushing to `preview` will trigger deployment on https://preview.neptune.cash/
