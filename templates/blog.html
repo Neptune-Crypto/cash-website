@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section class="hero is-small">
+  <div class="hero-body has-text-centered">
+    <p class="title is-size-1">
+      {{ section.title }}
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container content">
+    <ul>
+      {% for page in section.pages %}
+      <li>
+        <a href="{{ page.permalink | safe }}" class="is-size-3">{{ page.title }}</a>
+        {% if page.extra.author %}
+        <br>
+        by {{ page.extra.author }},
+        {% endif %}
+        {{ page.date | date(format="%B %d, %Y") }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+{% endblock content %}

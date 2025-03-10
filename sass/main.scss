@@ -1,0 +1,69 @@
+// This is the main stylesheet.
+//
+// It is written in SCSS, a superset of CSS.
+//
+// It subsequently gets compiled to one compact CSS file.
+//
+// We use the Bulma CSS framework. It is configured with a number of variables
+// to control colors, spacing, and such. This file contains custom variables
+// before Bulma is included.
+//
+// https://bulma.io/documentation/components/navbar/#variables
+
+$navbar-item-color: #ffffff;
+$navbar-item-background-color: transparent;
+$navbar-item-hover-background-color: transparent;
+$navbar-background-color: #191919;
+
+@import 'bulma'; // 0.9.3, https://github.com/j1mc/bulma-scss
+
+.triangle-bg {
+  background-color: #191919;
+  background-image: url('bg.svg');
+  background-size: cover;
+  * {
+    color: #ffffff;
+  }
+}
+
+.navbar {
+  padding: 2rem 3rem;
+}
+
+.navbar-logo-item {
+  font-weight: bold;
+}
+
+main {
+  font-size: 125%;
+}
+
+main a.box-link {
+  text-decoration: none;
+}
+
+.content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2em;
+}
+
+.content img + em {
+  display: block;
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+// About page
+.contributors {
+  .contributor {
+    img {
+      border-radius: 50%;
+    }
+  }
+}
+
+// Footnotes
+.footnote-definition {
+}

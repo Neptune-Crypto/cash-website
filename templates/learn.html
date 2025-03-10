@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% macro page_bullet(page) %}
+      <li>
+        <a href="{{ page.permalink | safe }}" class="is-size-3">{{ page.title }}</a>
+        {% if page.extra.author %}
+        <p>
+          by {{ page.extra.author }}, {{ page.date | date(format="%B %d, %Y") }}
+        </p>
+        {% endif %}
+
+        {{ page.summary | safe }}
+
+        {% if page.extra.breadcrumb %}
+        <ul>
+          {% for chapter in page.extra.breadcrumb %}
+          <li><a href="{{ get_url(path=chapter.page) }}">{{ chapter.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        <br>
+      </li>
+{% endmacro page_bullet %}
+
+{% block content %}
+
+<section class="hero is-small">
+  <div class="hero-body has-text-centered">
+    <p class="title is-size-1">
+      {{ section.title }}
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container content">
+    <ul>
+      {% for page in section.pages %}
+        {{ self::page_bullet(page=page) }}
+      {% endfor %}
+
+      {# Specifically add whitepaper under /learn, even though it lives in /whitepaper #}
+      {% set whitepaper = get_page(path="whitepaper.md") %}
+      {{ self::page_bullet(page=whitepaper) }}
+    </ul>
+  </div>
+</section>
+
+{% endblock content %}

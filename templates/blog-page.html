@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+      <section class="hero is-small">
+        <div class="hero-body has-text-centered">
+          <p class="title is-size-1">
+            {{ page.title }}
+          </p>
+          <p class="subtitle">
+          {% if page.date %}
+            {{ page.date | date(format="%B %d, %Y") }}
+          {% endif %}
+          {% if page.extra.author %}
+            by {{ page.extra.author }}
+          {% endif %}
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container content">
+          {{ page.content | safe }}
+        </div>
+      </section>
+
+{% endblock content %}

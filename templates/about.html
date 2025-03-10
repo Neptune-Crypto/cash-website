@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section class="hero is-small">
+  <div class="hero-body has-text-centered">
+    <p class="title is-size-1">
+      <img src="/img/logo_plain.svg" style="height: 2.2rem" />
+      {{ config.title }}
+    </p>
+    <p class="subtitle">
+      {{ config.extra.site_tagline }}
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container content">
+
+    {{ page.content | safe }}
+
+
+    <p class="title is-size-2">Backers</p>
+
+    <div class="columns contributors">
+      <div class="column is-3 has-text-centered">
+        <img src="/img/angel-wing-left.svg"
+          style="vertical-align: middle; display: inline-block; padding-left: 2%; padding-right: 2%; height: 75%; width: auto">
+        <div style="vertical-align: bottom; display: inline-block">Niko Kipouros</div><img
+          src="/img/angel-wing-right.svg"
+          style="vertical-align: middle; display: inline-block; padding-right: 2%; padding-left: 2%; height: 75%; width: auto">
+      </div>
+      <div class="column is-4 has-text-centered">
+        <img src="/img/angel-wing-left.svg"
+          style="vertical-align: middle; display: inline-block; padding-left: 2%; padding-right: 2%; height: 75%; width: auto">
+        <div style="vertical-align: bottom; display: inline-block">Zachary Williamson</div><img
+          src="/img/angel-wing-right.svg"
+          style="vertical-align: middle; display: inline-block; padding-right: 2%; padding-left: 2%; height: 75%; width: auto">
+      </div>
+      <div class="column is-3 has-text-centered">
+        <img src="/img/ergodic-logo.svg"
+          style="vertical-align: middle; display: inline-block; padding-left: 2%; padding-right: 2%; height: 75%; width: auto">
+        <a href="https://www.ergodicfund.com/"
+          style="font-weight: bold; font-family: 'Inter Tight', sans-serif; vertical-align: bottom; rotate: none; scale: none; transform: translate(0px); opacity: 1; background-image: linear-gradient(68.3319deg, rgb(95, 255, 91) 10%, rgb(0, 211, 251) 90%); color: rgba(184, 184, 184, 0); background-clip: text;">Ergodic
+          Capital</a>
+      </div>
+      <div class="column is-3 has-text-centered">
+        <a href="https://inacta.ch/en/about/inacta-ventures"><img src="/img/inacta.svg"
+            style="vertical-align: middle; display: inline-block; padding-left: 2%; padding-right: 2%; height: 75%; width: auto"></a>
+      </div>
+    </div>
+
+    <div class="columns contributors">
+      <div class="column is-3 has-text-centered">
+        <img src="/img/angel-wing-left.svg"
+          style="vertical-align: middle; display: inline-block; padding-left: 2%; padding-right: 2%; height: 75%; width: auto">
+        <div style="vertical-align: bottom; display: inline-block">Jan Xie</div><img src="/img/angel-wing-right.svg"
+          style="vertical-align: middle; display: inline-block; padding-right: 2%; padding-left: 2%; height: 75%; width: auto">
+      </div>
+      <div class="column is-4 has-text-centered">
+      </div>
+      <div class="column is-3 has-text-centered">
+        <div
+          style="vertical-align: middle; display: inline-block; padding-left: 2%; padding-right: 2%; height: 75%; width: auto; height: 4.5em">
+        </div>
+      </div>
+      <div class="column is-3 has-text-centered">
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!--
+      <section class="section">
+        <div class="container content">
+          <div class="columns">
+            <div class="column is-offset-2 is-8">
+
+              <div class="notification is-primary is-light">
+                <h3>Sign up for our newsletter</h3>
+                <p>
+                Would you like to keep updated on the development of Neptune?
+                Sign up to our newsletter.  Your email address stays with us,
+                and you can always unsubscribe.  We expect a release cycle of
+                6-12 emails per year.
+                </p>
+
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input class="input" type="email" placeholder="email@example.com" value="">
+                    <span class="icon is-small is-left">
+                      ✉️
+                    </span>
+                  </div>
+                </div>
+
+                <div class="field is-grouped">
+                  <div class="control">
+                    <button class="button is-link">Subscribe</button>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </section>
+      -->
+
+{% endblock content %}

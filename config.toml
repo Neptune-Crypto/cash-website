@@ -1,0 +1,22 @@
+# The Site URL for absolute URLs
+base_url = "https://neptune.cash"
+title = "Neptune Cash"
+
+# Compile all Sass in sass/* to CSS
+compile_sass = true
+
+[markdown]
+highlight_code = true
+
+[extra]
+site_tagline = "sea of freedom"
+site_menu = [
+    { title = "Blog", url = "/blog" },
+    { title = "Learn", url = "/learn" },
+    { title = "About", url = "/about" },
+    { title = "Forum", url = "https://talk.neptune.cash/" },
+    { title = "Neptune Core", url = "https://github.com/Neptune-Crypto/neptune-core/", new_tab = true },
+    { title = "Triton VM", url = "https://github.com/TritonVM/triton-vm", new_tab = true },
+    { title = "Explorer", url = "https://explorer.neptune.cash/", new_tab = true },
+    # { title = "Contact", url = "/contact" },
+]

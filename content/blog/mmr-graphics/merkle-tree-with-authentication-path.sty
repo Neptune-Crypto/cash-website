@@ -1,0 +1,21 @@
+\documentclass{article} 
+\usepackage{tikz}
+\usetikzlibrary{trees}
+\begin{document}
+\begin{tikzpicture}[
+    selected/.style={rectangle,ultra thick,draw=blue!30},
+    apelement/.style={rectangle,ultra thick,draw=red!30},
+    level distance=1.5cm,
+  level 1/.style={sibling distance=4cm},
+  level 2/.style={sibling distance=1.5cm}]
+  \node {$root$}
+    child {node[apelement] {$H\left[H(A)|H(B)\right]$}
+      child {node {$H(A)$}}
+      child {node {$H(B)$}}
+    }
+    child {node {$H\left[H(C)|H(D)\right]$}
+    child {node[selected] {$H(C)$}}
+      child {node[apelement] {$H(D)$}}
+    };
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section class="hero is-small">
+  <div class="hero-body has-text-centered">
+    <p class="title is-size-1">
+      <img src="img/logo_plain.svg" style="height: 2.2rem" />
+      {{ config.title }}
+    </p>
+    <p class="subtitle">
+      {{ config.extra.site_tagline }}
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container content">
+    <div class="columns">
+      <div class="column is-offset-3 is-6">
+        <div class="title has-text-centered">
+          Neptune Cash: anonymous – succinct
+        </div>
+        <p>
+          <i>Neptune Cash is a Layer-1 peer-to-peer anonymous cash protocol featuring privacy, scalability, and
+            post-quantum security.</i>
+        <p>
+
+          <b>zk-STARKs.</b> Neptune Cash is, to our knowledge, the first blockchain protocol to integrate <a
+            href="https://triton-vm.org/">zk-STARKs</a>" on
+          Layer-1 (where they belong). Users prove transactions on the client side. Miners aggregate transactions. Every
+          block contains only one, big transaction; and one proof.
+        </p>
+
+        <p><b>Mutator Sets.</b> It is definitely the first blockchain protocol to feature <i><a
+              href="https://neptune.cash/blog/mutator-sets/">mutator sets</a></i>,
+          a novel solution for achieving privacy <i>without sacrificing succinctness</i>.
+        </p>
+
+        <p><b>Post-Quantum.</b> All cryptography involved is <a
+            href="https://neptune.cash/blog/post-quantum/">post-quantum</a>, meaning that it can be
+          deployed on today's machines, <i>and</i> promises to withstand attacks on future <i>quantum</i> computers.
+        </p>
+
+        <p><b>Proof-of-Work.</b> The consumption of physical resources is required to produce blocks, thus rooting the
+          security of the consensus mechanism in <a
+            href="https://neptune.cash/blog/proof-of-stake-is-not-objective/">objective</a> reality.</p>
+
+        <p><b>Smart Contracts.</b> The prover supports <a href="http://127.0.0.1:1111/blog/announcing-tvm/">arbitrary
+            logic</a>; together with privacy, this support makes
+          Neptune a <i>private</i> smart contract platform in
+          addition to a competitor for the world's best possible money.
+        </p>
+
+        <p><b><a href="https://neptune.cash/blog/tokenomics/">Tokenomics</a>.</b> The total number of Neptune Coins that
+          will ever exist is asymptotically limited to
+          42.000.000, and the pre-mine is less than 1.98% of that. There are halvings every three years. Half of
+          every block reward is time-locked for 3 years.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container content">
+    <div class="columns">
+      <div class="column is-6">
+        <p class="title is-size-2">Blog</p>
+        <ul>
+          {% set blog_section = get_section(path="blog/_index.md") %}
+          {% for page in blog_section.pages %}
+          <li>
+            <a href="{{ page.permalink | safe }}" class="is-size-4">{{ page.title }}</a>
+            {% if page.extra.author %}
+            <br>
+            by {{ page.extra.author }},
+            {% endif %}
+            {{ page.date | date(format="%B %d, %Y") }}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="column is-6">
+        <p class="title is-size-2">Learn</p>
+        <ul>
+          {% set learn_section = get_section(path="learn/_index.md") %}
+          {% for page in learn_section.pages %}
+          <li>
+            <a href="{{ page.permalink | safe }}" class="is-size-4">{{ page.title }}</a>
+            {% if page.extra.author %}
+            <br>
+            by {{ page.extra.author }},
+            {% endif %}
+            {{ page.date | date(format="%B %d, %Y") }}
+          </li>
+          {% endfor %}
+
+          {# Specifically add whitepaper under /learn, even though it lives in /whitepaper #}
+          {% set whitepaper = get_page(path="whitepaper.md") %}
+          <li>
+            <a href="{{ whitepaper.permalink | safe }}" class="is-size-4">{{ whitepaper.title }}</a>
+            <br>
+            by {{ whitepaper.extra.author }}
+            {{ whitepaper.date | date(format="%B %d, %Y") }}
+          </li>
+
+        </ul>
+      </div>
+    </div>
+</section>
+
+{% endblock content %}
