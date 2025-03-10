@@ -15,4 +15,4 @@ Besides these technical features, a number of strategical decisions set Neptune 
 
 Neptune is currently under development. Check out (or checkout) the [github repository](https://github.com/Neptune-Crypto/neptune-core/) for a more detailed picture of the status quo.
 
-If you prefer IRC instead of Telegram, you can find us in #neptune on Libera.Chat.
+If you prefer IRC instead of Telegram, you can find us in #neptune on Libera.Chat..
