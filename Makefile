@@ -1,2 +1,2 @@
 default:
-	zola build
+	rm -rf public && zola build
