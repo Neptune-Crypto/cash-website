@@ -47,3 +47,26 @@ Another method for deriving a token price would be to start from a fully diluted
 
 If you are thinking about making an investment, please reach out to the founders, Alan and Thor (`@neptune.cash`).
 
+## Update, 2025-06-10
+
+As of 2025-06-10, the updated numbers regarding the distribution of the premine are as follows.
+
+ - Sold: 224'808 NPT
+   - for fundraising: 201'474 NPT
+   - for payment in kind: 23'334 NPT
+ - Distributed: 320'472 NPT
+   - to founders and early employees: 280'351.67 NPT
+   - to employees as salary: 5'833.33 NPT
+   - to partners (advisors, money finders, bounty hunters): 34'287 NPT
+ - Company: 286'185 NPT
+   - remaining bounty pool / external developer fund: 36'200 NPT
+   - new bounty pool / external developer fund: 23'800 NPT
+   - unallocated: 226'185 NPT
+
+![Pie chart representation of the distribution of the premine.](premine-distribution-pie-chart.png)
+
+Of the coins sold, 23'334 were sold in exchange for services in kind, typically related to marketing activities. The remainder was sold in the pre-sale at an average price of 10.4 CHF / NPT. The most recent sale price was 20 CHF / NPT.
+
+The bulk of the distributed coins are allocated to founders and early employees (F&EE) in accordance with their vesting plan. The remaining portions are allocated to future salaries for employees and partners. The latter class includes advisors, money finders, and bounty hunters.
+
+The company continues to own roughly one third of the premine coins. Of the initial 60'000 NPT pot set aside for bounties and external developer activities, 23'800 has been claimed. That pot is hereby replenished. The remainder of the company's assets will be sold to fund further development of the Neptune Cash blockchain, including wallet, application, and cryptography. Should any of those coins remain in the hands of the founding company at its dissolution, this remaining part will be distributed to founders and early employees in alignment with existing contracts.
