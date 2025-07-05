@@ -33,3 +33,5 @@ We want to use this opportunity to thank everyone who is contributing to the Nep
 Sincerely,
 
 Alan Szepieniec and Thorkil Schmidiger
+
+P.S.: For the record, the hash of block 21310 is ecfae777da1a6b5ad97d3d793cb64b0cb4262ac5e378d2f4e2a5049e731298e058b2000000000000.
