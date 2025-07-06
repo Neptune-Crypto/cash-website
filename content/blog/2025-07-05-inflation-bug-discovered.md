@@ -16,7 +16,7 @@ ogtype = "article"
 
 Dear Neptune Cash Community,
 
-We have discovered an undetectable inflation bug. Details are forthcoming. For now we present the conclusion without justification. We have verified this conclusion with a unit test. The bug was discovered by yours truly at roughly 2025-06-04 16:30 CEST.
+We have discovered an undetectable inflation bug. Details are forthcoming. For now we present the conclusion without justification. We have verified this conclusion with a unit test. The bug was discovered by yours truly at roughly 2025-07-04 16:30 CEST.
 
 We are unaware of any instances in which this bug was exploited. All coin amounts that we are aware of match the emission schedule. However, as the resulting inflation would be *undetectable*, we cannot categorically say the bug has not been exploited. At this point we (neither the developers of the blockchain nor the blockchain itself) cannot offer any certainty about the money supply.
 
