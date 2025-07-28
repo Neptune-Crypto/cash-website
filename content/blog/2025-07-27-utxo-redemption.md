@@ -40,6 +40,18 @@ Send this file to us. After validating it we will initiate a transaction to send
 
 Speaking of which, every redemption claim is linked to a receiving address. Without it, the proofs will be invalid. By default, the receiving address is set to the node's 0th generation address, the same one as is produced by `neptune-cli premine-receiving-address`. To customize it, use the `--address` argument on `redeem-utxos`.
 
+### Synchronizing
+
+If your node is not already synchronized to the legacy network, you have two options.
+
+ 1. Synchronize through the regular peer-to-peer network.
+     - Start your node with `--peers 139.162.193.206:19798` (note the port number!) to connect to a node that is guaranteed to serve the right blocks.
+     - Block download and synchronization will start immediately.
+     - If there is only one node on the network, you might fall into the [sync timeout trap](https://github.com/Neptune-Crypto/neptune-core/issues/634). To get around this obstacle, restart your node every so often.
+ 2. Download the blocks via bittorrent.
+     - Download the [torrent file](neptune-cash-legacy-blocks20250728.torrent) and download the blocks from seeders.
+     - Start the node with `--bootstrap-from-directory <directory>`.
+
 ## Redemptions
 
 In the interest of transparency, all UTXO redemption claims and their associated disbursements are logged below.
