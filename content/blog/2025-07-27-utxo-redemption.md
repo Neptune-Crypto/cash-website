@@ -58,4 +58,8 @@ If your node is not already synchronized to the legacy network, you have two opt
 
 In the interest of transparency, all UTXO redemption claims and their associated disbursements are logged below.
 
-(no redemption claims yet)
+| amount (NPT) |     address (abbrev.)      | in genesis? |  comment (optional)  | redeem file |
+|-------------:|:--------------------------:|:-----------:|:---------------------|:------------|
+| 450.008555   | nolgam1tph26le...9vmphz6s  | yes         | donation address[^1] | [download](48955e77e4e2476eca858bbf9c3b2bc1e683b7426e7abe16538bc417b5e426878561d7b7453f39c8.redeem) |
+
+[^1]: https://docs.neptune.cash/contributing/donating.html
