@@ -52,6 +52,8 @@ If your node is not already synchronized to the legacy network, you have two opt
      - If there is only one node on the network, you might fall into the [sync timeout trap](https://github.com/Neptune-Crypto/neptune-core/issues/634). To get around this obstacle, restart your node every so often.
  2. Download the blocks via bittorrent.
      - Download the [torrent file](neptune-cash-legacy-blocks20250728.torrent) and download the blocks from seeders. (Note that the blocks are located in `home/thv/.local/share/neptune/main/blocks/`.)
+     - Untar the archive with `tar -xf` (not the usual `tar -xzvf`).
+     - Delete the `databases/` and `blocks/` directory if these are present.
      - Start the node with `--bootstrap-from-directory <path/to/blocks>`.
 
 ## Redemptions
