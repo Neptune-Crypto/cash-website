@@ -20,6 +20,7 @@ This guide will walk you through the complete process of cloning, building, and 
 - Rust and Cargo installed
 - CMake installed (version 3.5 or higher)
 - Visual Studio Build Tools (for C++ compilation)
+- A node synced to block 21310 (or later)
 
 ## Step 1: Clone the Redeem Branch
 
