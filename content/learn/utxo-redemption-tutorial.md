@@ -22,32 +22,14 @@ This guide will walk you through the complete process of cloning, building, and 
 - Visual Studio Build Tools (for C++ compilation)
 - A node synced to block 21310 (or later)
 
-## Step 1: Clone the Redeem Branch
+## Step 1: Clone the Legacy Repository
 
 ```
-git clone -b redeem https://github.com/Neptune-Crypto/neptune-core.git
-cd neptune-core
+git clone -b redeem https://github.com/Neptune-Crypto/neptune-legacy.git
+cd neptune-legacy
 ```
 
-## Step 2: Verify You're on the Correct Branch
-
-```
-git branch
-```
-
-You should see:
-```
-* redeem
-  release
-```
-
-If you're not on the redeem branch, switch to it:
-
-```
-git checkout redeem
-```
-
-## Step 3: Build the Project
+## Step 2: Build the Project
 
 The build process requires a specific CMake policy setting due to dependency compatibility issues.
 
@@ -60,11 +42,11 @@ Note: This environment variable is crucial. Without it, you'll get a CMake error
 
 ### Expected Output
 ```
-   Compiling neptune-cash v0.2.2 (C:\Users\username\my-projects\neptune-core)
+   Compiling neptune-cash v0.2.3 (C:\Users\username\my-projects\neptune-core)
     Finished `release` profile [optimized] target(s) in 1m 27s
 ```
 
-## Step 4: Install the Binaries
+## Step 3: Install the Binaries
 ```
 cargo install --locked --force --path .
 ```
@@ -75,21 +57,21 @@ This installs the binaries to C:\Users\username\.cargo\bin\:
 - `neptune-dashboard.exe`
 - `triton-vm-prover.exe`
 
-## Step 5: Verify Installation
+## Step 4: Verify Installation
 
 ```
 neptune-core --version
 ```
 
-Should output: `neptune-cash 0.2.2`
+Should output: `neptune-cash 0.2.3`
 
-## Step 6: Generate a Wallet (if needed)
+## Step 5: Generate a Wallet (if needed)
 
 ```
 neptune-cli generate-wallet
 ```
 
-## Step 7: Get Your Premine Receiving Address
+## Step 6: Get Your Premine Receiving Address
 
 To verify your redeem wallet address:
 
@@ -105,7 +87,7 @@ nolgam1tph26le2s8xct23j7cs7udj85q9uzlft8uezjc65ecxr8fpag5pm3x824pwngwpqanzta3x53
 
 This shows your wallet file location and your premine receiving address.
 
-## Step 8: Start the Neptune Core Daemon
+## Step 7: Start the Neptune Core Daemon
 
 ```
 neptune-core
@@ -122,7 +104,7 @@ INFO neptune_cash: Started RPC server
 INFO neptune_cash: Starting main loop
 ```
 
-## Step 9: Generate UTXO Redemption Claims
+## Step 8: Generate UTXO Redemption Claims
 
 In a new terminal window (keep the daemon running):
 
@@ -143,7 +125,7 @@ Got directory (redemption-claims/) and address (None).
 Process started. Monitor 'redemption-claims/' as the claims will appear there when the node is finished producing them.
 ```
 
-## Step 10: Monitor the Process
+## Step 9: Monitor the Process
 
 The redemption process involves multiple proof generation jobs. You'll see logs like:
 
@@ -167,7 +149,7 @@ INFO neptune_cash::api::tx_initiation::redeem: UTXO redemption claim successfull
 - `Job #7: 0.06 seconds (padded height: )`
 - `Job #8: 2.62 seconds (padded height: )`
 
-## Step 11: Check the Results
+## Step 10: Check the Results
 
 After completion, check the redemption-claims directory:
 
