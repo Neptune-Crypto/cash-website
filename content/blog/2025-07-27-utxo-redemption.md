@@ -67,6 +67,7 @@ In the interest of transparency, all UTXO redemption claims and their associated
 |   9.854300   | nolgam1drha3sp...vkpqmfqw  | genesis     |  | [download](1f46a565fdde633075f0ddfe644a1eb54f18fe7386522093d6f793e4b305fda.redeem) |
 | 434962.9415060983029299817536415794922500 | nolgam1tr6ux9n...ay779hmg | genesis | | [download](2025-08-05-a.zip) |
 | 0.0399999999999999983324789473280000 | nolgam1tr6ux9n...ay779hmg | genesis | | [download](2025-08-05-a.zip) |
+| 454949.9000000000000000000000000000000000 | nolgam16p0urjd...duwpwt3u | genesis | | [download](2025-08-05-b.zip) |
 
 ## Misc
 
