@@ -65,11 +65,17 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1tph26le...9vmphz6s | 450.0085550000000000000000000000000000    | genesis     | donation address[^1] | [download](48955e77e4e2476eca858bbf9c3b2bc1e683b7426e7abe16538bc417b5e426878561d7b7453f39c8.redeem) |
 | nolgam1autuvle...2xnx3e44 | 101.0900000000000000000000000000000000    | genesis     |                      | [download](a997922a5d826258816b38c7414bc00699f7bc3bf715734f942af0c337cd5eb.redeem) |
 | nolgam1drha3sp...vkpqmfqw |  9.8543000000000000000000000000000000     | genesis     |                      | [download](1f46a565fdde633075f0ddfe644a1eb54f18fe7386522093d6f793e4b305fda.redeem) |
-| nolgam1tr6ux9n...ay779hmg | 434962.9415060983029299817536415794922500 | genesis     |                      | [download](2025-08-05-a.zip) |
-| nolgam1tr6ux9n...ay779hmg | 0.0399999999999999983324789473280000      | genesis     |                      | [download](2025-08-05-a.zip) |
-| nolgam16p0urjd...duwpwt3u | 454949.9000000000000000000000000000000000 | genesis     |                      | [download](2025-08-05-b.zip) |
-| nolgam1tc9reg0...6spazqzk | 569.5866325000000087264452033904642500    | genesis     |                      | [download](2025-08-05-c.zip) |
+| nolgam1tr6ux9n...ay779hmg | 434962.9415060983029299817536415794922500 | genesis     | SafeTrade            | [download](2025-08-05-a.zip) |
+| nolgam1tr6ux9n...ay779hmg | 0.0399999999999999983324789473280000      | genesis     | SafeTrade            | [download](2025-08-05-a.zip) |
+| nolgam16p0urjd...duwpwt3u | 454949.9000000000000000000000000000000000 | genesis     | SafeTrade            | [download](2025-08-05-b.zip) |
+| nolgam1tc9reg0...6spazqzk | 569.5866325000000087264452033904642500    | genesis     | Phoebe               | [download](2025-08-05-c.zip) |
 | nolgam1tc9reg0...6spazqzk | 2430.0959325000000087264452033904640000   | genesis     | Phoebe               | [download](2025-08-05-c.zip) |
+| nolgam1qtqfy6n...3g0ad2ls |   4181.6804965567991310052849205903360000 | genesis     | yeah sure, it was a goal of mine :) just made it                     | [download](2025-08-05-d.zip) |
+| nolgam1qtqfy6n...3g0ad2ls |   4295.1215965567991310052849205903360000 | genesis     |                      | [download](2025-08-05-d.zip) |
+| nolgam12e9wmfw...dj8c00y4 |   2586.9907999999998122883048097710080000 | genesis     |                      | [download](2025-08-05-d.zip) |
+| nolgam12e9wmfw...dj8c00y4 |   2586.9907999999998122883048097710080000 | genesis     |                      | [download](2025-08-05-d.zip) |
+| nolgam15xk75as...3xg9syq0 |     24.4999999900000000000000000000000000 | genesis     |                      | [download](2025-08-05-d.zip) |
+
 
 ## Misc
 
