@@ -60,14 +60,16 @@ If your node is not already synchronized to the legacy network, you have two opt
 
 In the interest of transparency, all UTXO redemption claims and their associated disbursements are logged below.
 
-| amount (NPT) |     address (abbrev.)      | disbursed   |  comment (optional)  | redeem file |
-|-------------:|:--------------------------:|:-----------:|:---------------------|:------------|
-| 450.008555   | nolgam1tph26le...9vmphz6s  | genesis     | donation address[^1] | [download](48955e77e4e2476eca858bbf9c3b2bc1e683b7426e7abe16538bc417b5e426878561d7b7453f39c8.redeem) |
-| 101.090000   | nolgam1autuvle...2xnx3e44  | genesis     |  | [download](a997922a5d826258816b38c7414bc00699f7bc3bf715734f942af0c337cd5eb.redeem) |
-|   9.854300   | nolgam1drha3sp...vkpqmfqw  | genesis     |  | [download](1f46a565fdde633075f0ddfe644a1eb54f18fe7386522093d6f793e4b305fda.redeem) |
-| 434962.9415060983029299817536415794922500 | nolgam1tr6ux9n...ay779hmg | genesis | | [download](2025-08-05-a.zip) |
-| 0.0399999999999999983324789473280000 | nolgam1tr6ux9n...ay779hmg | genesis | | [download](2025-08-05-a.zip) |
-| 454949.9000000000000000000000000000000000 | nolgam16p0urjd...duwpwt3u | genesis | | [download](2025-08-05-b.zip) |
+|     address (abbrev.)     | amount (NPT)                              | disbursed   |  comment (optional)  | redeem file |
+|:-------------------------:|------------------------------------------:|:-----------:|:---------------------|:------------|
+| nolgam1tph26le...9vmphz6s | 450.0085550000000000000000000000000000    | genesis     | donation address[^1] | [download](48955e77e4e2476eca858bbf9c3b2bc1e683b7426e7abe16538bc417b5e426878561d7b7453f39c8.redeem) |
+| nolgam1autuvle...2xnx3e44 | 101.0900000000000000000000000000000000    | genesis     |                      | [download](a997922a5d826258816b38c7414bc00699f7bc3bf715734f942af0c337cd5eb.redeem) |
+| nolgam1drha3sp...vkpqmfqw |  9.8543000000000000000000000000000000     | genesis     |                      | [download](1f46a565fdde633075f0ddfe644a1eb54f18fe7386522093d6f793e4b305fda.redeem) |
+| nolgam1tr6ux9n...ay779hmg | 434962.9415060983029299817536415794922500 | genesis     |                      | [download](2025-08-05-a.zip) |
+| nolgam1tr6ux9n...ay779hmg | 0.0399999999999999983324789473280000      | genesis     |                      | [download](2025-08-05-a.zip) |
+| nolgam16p0urjd...duwpwt3u | 454949.9000000000000000000000000000000000 | genesis     |                      | [download](2025-08-05-b.zip) |
+| nolgam1tc9reg0...6spazqzk | 569.5866325000000087264452033904642500    | genesis     |                      | [download](2025-08-05-c.zip) |
+| nolgam1tc9reg0...6spazqzk | 2430.0959325000000087264452033904640000   | genesis     | Phoebe               | [download](2025-08-05-c.zip) |
 
 ## Misc
 
