@@ -69,7 +69,7 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1tr6ux9n...ay779hmg | 0.0399999999999999983324789473280000      | genesis     | SafeTrade            | [download](2025-08-05-a.zip) |
 | nolgam16p0urjd...duwpwt3u | 454949.9000000000000000000000000000000000 | genesis     | SafeTrade            | [download](2025-08-05-b.zip) |
 | nolgam1tc9reg0...6spazqzk | 569.5866325000000087264452033904642500    | genesis     | Phoebe               | [download](2025-08-05-c.zip) |
-| nolgam1tc9reg0...6spazqzk | 2430.0959325000000087264452033904640000   | genesis     | Phoebe               | [download](2025-08-05-c.zip) |
+| nolgam1tc9reg0...6spazqzk | 2430.0959325000000087264452033904640000   | genesis     |                    | [download](2025-08-05-c.zip) |
 | nolgam1qtqfy6n...3g0ad2ls |   4181.6804965567991310052849205903360000 | genesis     | yeah sure, it was a goal of mine :) just made it                     | [download](2025-08-05-d.zip) |
 | nolgam1qtqfy6n...3g0ad2ls |   4295.1215965567991310052849205903360000 | genesis     |                      | [download](2025-08-05-d.zip) |
 | nolgam12e9wmfw...dj8c00y4 |   2586.9907999999998122883048097710080000 | genesis     |                      | [download](2025-08-05-d.zip) |
