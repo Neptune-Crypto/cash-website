@@ -80,6 +80,8 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1r4rml2s...aspyf53j | 176689.2704864789804841314795388928000000 | future      | Minerlab             | [download](2025-05-06-a.tar.gz) |
 | nolgam1yqpkezu...kxlz56nj |     64.0000000000000000000000000000000000 | future      |                      | [download](2025-08-07-a.tar.tar) |
 | nolgam1yqpkezu...kxlz56nj |  31308.8304072400002434731044968529920000 | future      |                      | [download](2025-08-07-a.tar.tar) |
+| nolgam1qtfe60t...gy4uupqu |     56.2702856866377999323154529320960000 | future      | MinerLab             | [download](bb7a5b7b645301e424531ba47d5026c565678401844d577354de4b36747ab8d24df0aa413f328210.redeem) |
+| nolgam1qtfe60t...gy4uupqu |   3803.7784541643094782088061377249280000 | future      | MinerLab             | [download](bb7a5b7b645301e424531ba47d5026c565678401844d577354de4b36747ab8d24df0aa413f328210.redeem) |
 
 
 ## Misc
