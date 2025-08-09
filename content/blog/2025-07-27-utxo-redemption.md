@@ -84,6 +84,7 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1qtfe60t...gy4uupqu |   3803.7784541643094782088061377249280000 | future      | MinerLab             | [download](bb7a5b7b645301e424531ba47d5026c565678401844d577354de4b36747ab8d24df0aa413f328210.redeem) |
 | nolgam1mav4jjj...tgf7ef2h |   1789.0094119195000385935254654812160000 | future      |                      | [download](d35b1a2f18f8be25a89b2967ff2502de4ac846b31e5c9e2a5cf8715eb3991bc6f10c76a96f3c3661.redeem) |
 | nolgam1mav4jjj...tgf7ef2h |  10337.0929999999999999991662394736640000 | future      |                      | [download](d35b1a2f18f8be25a89b2967ff2502de4ac846b31e5c9e2a5cf8715eb3991bc6f10c76a96f3c3661.redeem) |
+| nolgam1m8umdar...0vam9ma4 |    535.9000000000000000000000000000000000 | future      | no comment           | [download](982c760a4799b34da53c528c32536d475c2522214f99aabf54c6c4805fb9d127386a9478e1af2f55.redeem) |
 
 
 ## Misc
