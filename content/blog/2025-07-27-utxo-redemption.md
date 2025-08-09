@@ -76,8 +76,8 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam12e9wmfw...dj8c00y4 |   2586.9907999999998122883048097710080000 | genesis     |                      | [download](2025-08-05-d.zip) |
 | nolgam15xk75as...3xg9syq0 |     24.4999999900000000000000000000000000 | genesis     |                      | [download](2025-08-05-d.zip) |
 | nolgam1jfzfp7g...suh7zhgk |      9.2000000000000000000000000000000000 | genesis     |                      | [download](4ebaf3bf1bd4a713747bd7c9decf7d1d79cf9a9c73ac921df74a0ac7ffbe7a7f4108a5fcb9236e3b.redeem) |
-| nolgam1r4rml2s...aspyf53j |  12853.4129593380500636918555308195840000 | future      | Minerlab             | [download](2025-05-06-a.tar.gz) |
-| nolgam1r4rml2s...aspyf53j | 176689.2704864789804841314795388928000000 | future      | Minerlab             | [download](2025-05-06-a.tar.gz) |
+| nolgam1r4rml2s...aspyf53j |  12853.4129593380500636918555308195840000 | future      | Minerlab             | [download](2025-08-06-a.tar.gz) |
+| nolgam1r4rml2s...aspyf53j | 176689.2704864789804841314795388928000000 | future      | Minerlab             | [download](2025-08-06-a.tar.gz) |
 | nolgam1yqpkezu...kxlz56nj |     64.0000000000000000000000000000000000 | future      |                      | [download](2025-08-07-a.tar.tar) |
 | nolgam1yqpkezu...kxlz56nj |  31308.8304072400002434731044968529920000 | future      |                      | [download](2025-08-07-a.tar.tar) |
 | nolgam1qtfe60t...gy4uupqu |     56.2702856866377999323154529320960000 | future      | MinerLab             | [download](bb7a5b7b645301e424531ba47d5026c565678401844d577354de4b36747ab8d24df0aa413f328210.redeem) |
