@@ -87,6 +87,25 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1m8umdar...0vam9ma4 |    535.9000000000000000000000000000000000 | future      | no comment           | [download](982c760a4799b34da53c528c32536d475c2522214f99aabf54c6c4805fb9d127386a9478e1af2f55.redeem) |
 | nolgam1hvszeed...lz63upq9 |   2004.1200000000000000000000000000000000 | future      | reclaim steps is a little complex,but community member are warm-hearted help me do that, dev respond quickly, everything goes. all good 😂 | [download](1d658a6372f6f2c067d06dd7024fc919aa21891e558da762d0a831b7095902e.redeem) |
 | nolgam1d3m2j7r...328vsju6 |  11674.2801230000000000000000000000000000 | future      | Thanks to community dev @KaffinPX for his help, and I wish NPT a bright future. | [download](cfc5d0891482e20bf6115c64edd319793f173670ab3e8c01f1bc8cc559fec75.redeem) |
+| nolgam1p3mnc8x...aykvz60c |    153.5999999999999945759029817507840000 | future      |                      | [download](68f15daec1205690f3bd2271b9a0341a6f01ae8af2857c0b1d7b6f142a1794a6d83e62170609bfd5.redeem) |
+| nolgam1p3mnc8x...aykvz60c |    153.5999999999999945759029817507840000 | future      |                      | [download](68f15daec1205690f3bd2271b9a0341a6f01ae8af2857c0b1d7b6f142a1794a6d83e62170609bfd5.redeem) |
+| nolgam19uwu7l7...uxmuyljx |    109.4399999999999971205336656773120000 | future      |                      | [download](9af4eb867d92bc34a1ebdf7fa6d49687dbd9975fab63354610d6f37e5c3064a301c9362f311062c4.redeem) |
+| nolgam19uwu7l7...uxmuyljx |    109.4399999999999971205336656773120000 | future      |                      | [download](9af4eb867d92bc34a1ebdf7fa6d49687dbd9975fab63354610d6f37e5c3064a301c9362f311062c4.redeem) |
+| nolgam1rjmn3qd...xwgrxrkg |    251.5199999999999892271740496117760000 | future      |                      | [download](702e0da0c5ada13ab5c05137ae6aca69cff0b9c372053e733c9b663dee8ca06142791cc1027f9d41.redeem) |
+| nolgam1rjmn3qd...xwgrxrkg |    251.5199999999999892271740496117760000 | future      |                      | [download](702e0da0c5ada13ab5c05137ae6aca69cff0b9c372053e733c9b663dee8ca06142791cc1027f9d41.redeem) |
+| nolgam16p2dhw5...nxg77jpf |     96.0000000000000006363079948369920000 | future      |                      | [download](c9c62f15e88ecee4256a6931eee2d256d369f38fa0fb838c57418d457f261d16c998c12553feb742.redeem) |
+| nolgam16p2dhw5...nxg77jpf |     96.0000000000000006363079948369920000 | future      |                      | [download](c9c62f15e88ecee4256a6931eee2d256d369f38fa0fb838c57418d457f261d16c998c12553feb742.redeem) |
+| nolgam133vyju2...r2e9sk66 |    547.1999999999999856026683283865600000 | future      |                      | [download](4827ece2833b10de16f9c2a0229c486f52f00a3601ab78a30f608ee21140aa3c192b039994a76074.redeem) |
+| nolgam133vyju2...r2e9sk66 |    547.1999999999999856026683283865600000 | future      |                      | [download](4827ece2833b10de16f9c2a0229c486f52f00a3601ab78a30f608ee21140aa3c192b039994a76074.redeem) |
+| nolgam1p7pg7xq...r6gjhuy4 |    463.9999999999999828906198192619520000 | future      |                      | [download](7273ca99d916171f80b3295a43b81b6d3887383f048f36c2574d20790b8d7dd91673950b333c7383.redeem) |
+| nolgam1p7pg7xq...r6gjhuy4 |    463.9999999999999828906198192619520000 | future      |                      | [download](7273ca99d916171f80b3295a43b81b6d3887383f048f36c2574d20790b8d7dd91673950b333c7383.redeem) |
+| nolgam1nehsae0...kz4nh6q6 |    108.7999999999999972879514908753920000 | future      |                      | [download](331b480624922442e31e478540893f83780530fe45808cfd4d614777f5901295a500132bb41f1182.redeem) |
+| nolgam1nehsae0...kz4nh6q6 |    108.7999999999999972879514908753920000 | future      |                      | [download](331b480624922442e31e478540893f83780530fe45808cfd4d614777f5901295a500132bb41f1182.redeem) |
+| nolgam18542fz8...yvm8w0av |    116.4799999999999975307374021836800000 | future      |                      | [download](0c340497f53a487f91e5bff070e49ee69e6da4e9a66f24493fb92950b5c1ec79870ba618d5cb221a.redeem) |
+| nolgam18542fz8...yvm8w0av |    116.4799999999999975307374021836800000 | future      |                      | [download](0c340497f53a487f91e5bff070e49ee69e6da4e9a66f24493fb92950b5c1ec79870ba618d5cb221a.redeem) |
+| nolgam1raf6kxa...u2ujhmdv |    256.0500000000000000000000000000000000 | future      |                      | [download](4e7d2816193b7370c8cfce241b234e14210dbfdbff6a63bc29b847357fee993b683fc65aee6b2531.redeem) |
+| nolgam1raf6kxa...u2ujhmdv |    256.0500000000000000000000000000000000 | future      |                      | [download](4e7d2816193b7370c8cfce241b234e14210dbfdbff6a63bc29b847357fee993b683fc65aee6b2531.redeem) |
+
 
 
 ## Misc
