@@ -7,8 +7,6 @@ weight = 0
 author = "Jastar13 and Kaffin"
 +++
 
-> *This guide is based on successful testing with Neptune Core v0.2.2 on the redeem branch and on Windows. Please adapt to suit your own needs.*
-
 # How to Build and Use Neptune Core Redeem Branch
 
 This guide will walk you through the complete process of cloning, building, and using the Neptune Core redeem branch to generate UTXO redemption claims.
@@ -25,7 +23,7 @@ This guide will walk you through the complete process of cloning, building, and 
 ## Step 1: Clone the Legacy Repository
 
 ```
-git clone -b redeem https://github.com/Neptune-Crypto/neptune-legacy.git
+git clone https://github.com/Neptune-Crypto/neptune-legacy.git
 cd neptune-legacy
 ```
 
@@ -164,6 +162,8 @@ Directory: C:\Users\username\my-projects\neptune-core\redemption-claims
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 -a----          8/1/2025   1:01 PM        5470654 a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef1234567890.redeem
+-a----          8/1/2025   1:01 PM        5470654 12345678901234567890abcdef123a1b2c3d4e5f6789012345678901234567890abc.redeem
+-a----          8/1/2025   1:01 PM        5470654 67890abcdef1201234567890123456a1b2c3d4e5f6789012345678901234567890ab.redeem
 ```
 
 ## Troubleshooting
@@ -232,7 +232,7 @@ This process successfully redeems UTXOs from the previous Neptune network versio
 ## Next Steps
 
 After generating the redemption claim:
-1. Keep the `.redeem` file safe - it contains your redemption proofs
-2. Submit the claim to the network (process varies by network)
-3. Monitor the dashboard for redemption status
+1. Keep the `.redeem` files safe - they contain your redemption proofs
+2. Send the claim (all `.redeem` files) to the core devs
+3. Monitor the table on the bottom of the [UTXO redemption](../blog/utxo-redemption) page.
 4. Check wallet balance after successful redemption
