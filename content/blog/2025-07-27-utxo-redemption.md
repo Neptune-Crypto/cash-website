@@ -105,7 +105,8 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam18542fz8...yvm8w0av |    116.4799999999999975307374021836800000 | future      |                      | [download](0c340497f53a487f91e5bff070e49ee69e6da4e9a66f24493fb92950b5c1ec79870ba618d5cb221a.redeem) |
 | nolgam1raf6kxa...u2ujhmdv |    256.0500000000000000000000000000000000 | future      |                      | [download](4e7d2816193b7370c8cfce241b234e14210dbfdbff6a63bc29b847357fee993b683fc65aee6b2531.redeem) |
 | nolgam1raf6kxa...u2ujhmdv |    256.0500000000000000000000000000000000 | future      |                      | [download](4e7d2816193b7370c8cfce241b234e14210dbfdbff6a63bc29b847357fee993b683fc65aee6b2531.redeem) |
-
+| nolgam1rn47u24...ek9v9nzf | 146329.2238432832296223403841400995840000 | future      |                      | [download](2025-08-14-a.zip) |
+| nolgam1rn47u24...ek9v9nzf | 146060.8078432832296223403841400995840000 | future      |                      | [download](2025-08-14-a.zip) |
 
 
 ## Misc
