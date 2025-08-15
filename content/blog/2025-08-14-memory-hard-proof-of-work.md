@@ -113,6 +113,17 @@ Succinctness via recursive block validation is still very much on the roadmap. C
  - Proof-production is stateful; there is always a percentage capturing the degree of completion. Relative to stateless proof-of-work puzzles, miners are less likely to throw away a proof that is 90% completed when a new block comes in on the off-chance that they can win the block race if they plow ahead and complete their current work. As a result, the network has a greater incentive to delay propagation of proof-of-work solutions, and block races are more common.
  - Proof-production is not a black box; it has an observable state that evolves across many discrete steps. There may be optimizations for singular steps that benefit proof-of-work but break regular proof-production. For example, in FRI-based proof systems, it is possible to record the prover state close to completion, modify one leaf in the Merkle tree, and generate a completely different proof that is still valid with high probability. Crucially, this leads to a strategy for generating $k$ proofs much faster than $k$ times the time to generate one proof. In STIR-based proof systems, it is even possible to avoid the large memory footprint that comes with this stategy.
 
-[^4]: (why guessing must be stateless)
+[^4]: Guessing must be stateless in order to effectively generate consensus. To see this, consider the following thought experiment. The time it takes to make a single guess is $G$ seconds, and $T$ is size of the time window after a block arrives during which a competing block can win the race with 50% chance. Consider one particular guesser who is $C \cdot 100$% done with his guess, and let $P$ be the probability that that guess is valid. A new block, guessed by a competing miner, arrives. The guesser has two options:
+
+ - a) throw out the current guess state and accept the new block as valid, or
+ - b) complete the current guess and try to win the block race.
+
+The expectation value of the second strategy if $T > (1-C)G$ is $0.5P$, and its cost disappears if there is a proving or preprocessing phase prior to guessing on the next block (as there is on Neptune). Since $0.5P > 0$, a guesser in this situation will rationally prefer to complete the guess and try to win the race if it is a valid one.
+
+The probability that a single rational guesser, whose state is uniformly distributed between initialization and completion, causes a block race is $P \cdot T / G$ (assuming $T < G$). Inside the time window $T$ there are $(1/P) \cdot (T/I)$ guesses where $I$ is the target block interval (or, more accurately, the part of it that is supposed to be spent guessing). The probability of a block race is therefore
+
+$$ 1 - \left(1 - \frac{PT}{G}\right)^{\frac{T}{I} \cdot \frac{1}{P}} \approx \frac{T}{I} \cdot \frac{T}{G} $$
+
+To avoid the cost of mining on top of a block that is destined to lose the block race, rational miners wait $T$ seconds before accepting the block as final.
 
 [^5]: In practice, it suffices if the time it takes to make one guess is dwarfed by the time it takes to propagate a winning block.
