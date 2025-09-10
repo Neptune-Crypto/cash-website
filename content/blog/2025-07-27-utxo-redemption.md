@@ -113,8 +113,9 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1vgmj6y5...v60yypdl |  60257.8895150569193642431168548700160000 | [2627/14](https://explorer.neptune.cash/announcement/digest/f023fe6b0a854c2864f059ffd3ee5b89868055ce07718108d7966cfae47b4ea91535450000000000/14)      |                      | [download](2025-08-20-a.tar.gz) |
 | nolgam14ww30eg...0savhxnh |   8724.0228781969502414830353949655040000 | future | [download](2025-08-25-a.zip)    |
 | nolgam14ww30eg...0savhxnh |  41641.5022162210502477937162065018880000 | future | [download](2025-08-25-a.zip)    |
-| nolgam1nurfm22...a7fqh2e4 |    182.5425324703500257676683310530560000 | future | [download](2025-08-29.tar.gz)   |
-| nolgam1nurfm22...a7fqh2e4 | 223357.3425549558500257676683310530560000 | future | [download](2025-08-31-a.tar.gz) |
+| nolgam1nurfm22...a7fqh2e4 |    196.5192491045784315991655716290560000 | future | [download](2025-08-29.tar.gz)   |
+| nolgam1nurfm22...a7fqh2e4 | 272528.5609142930285424298709955706880000 | future | [down](2025-08-31-a.tar.gz)[load](2025-09-10-a.tar.gz) |
+| nolgam1dkvqt69...hs5uw9kg |   5000.0000000000000000000000000000000000 | future | [download](da496182bc8b5b549f08e0db03e4050ea849221ac1abfaf8792967f32391c7bd657614501af670b0.redeem) |
 
 
 ## Misc
