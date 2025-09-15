@@ -1,6 +1,7 @@
 # The Site URL for absolute URLs
 base_url = "https://neptune.cash"
 title = "Neptune Cash"
+hard_link_static = true
 
 # Compile all Sass in sass/* to CSS
 compile_sass = true
