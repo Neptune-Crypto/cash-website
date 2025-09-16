@@ -111,14 +111,14 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1jtkvlj2...t6y0ra5h |     33.2800000000000003014723444408320000 | [2627/14](https://explorer.neptune.cash/announcement/digest/f023fe6b0a854c2864f059ffd3ee5b89868055ce07718108d7966cfae47b4ea91535450000000000/14)      |                      | [download](33e284a0e04c0af15acebe0107a2f39a7e63edcc2065c78d220a1e878db9d33db38dcfdf6d60e971.redeem) |
 | nolgam1vgmj6y5...v60yypdl |    408.7675476950199999990634674913280000 | [2627/14](https://explorer.neptune.cash/announcement/digest/f023fe6b0a854c2864f059ffd3ee5b89868055ce07718108d7966cfae47b4ea91535450000000000/14)      |                      | [download](2025-08-20-a.tar.gz) |
 | nolgam1vgmj6y5...v60yypdl |  60257.8895150569193642431168548700160000 | [2627/14](https://explorer.neptune.cash/announcement/digest/f023fe6b0a854c2864f059ffd3ee5b89868055ce07718108d7966cfae47b4ea91535450000000000/14)      |                      | [download](2025-08-20-a.tar.gz) |
-| nolgam14ww30eg...0savhxnh |   8724.0228781969502414830353949655040000 | future | [download](2025-08-25-a.zip)    |
-| nolgam14ww30eg...0savhxnh |  41641.5022162210502477937162065018880000 | future | [download](2025-08-25-a.zip)    |
-| nolgam1nurfm22...a7fqh2e4 |    196.5192491045784315991655716290560000 | future | [download](2025-08-29.tar.gz)   |
-| nolgam1nurfm22...a7fqh2e4 | 272528.5609142930285424298709955706880000 | future | [down](2025-08-31-a.tar.gz)[load](2025-09-10-a.tar.gz) |
-| nolgam1dkvqt69...hs5uw9kg |   5000.0000000000000000000000000000000000 | future | [download](da496182bc8b5b549f08e0db03e4050ea849221ac1abfaf8792967f32391c7bd657614501af670b0.redeem) |
-| nolgam1z5052q2...2cfrxjym |   7775.0000000000000000000000000000000000 | future | [download](6b7d8c646c20bd9d56dbd7db0fd7202008911da1de7e8638355d58d6cf0ab48.redeem) |
-| nolgam1dk90nz8...0kag8cd3 |  13677.0584600181393461737843636305920000 | future | [download](2025-09-16.tar.gz) |
-| nolgam1dk90nz8...0kag8cd3 |  17986.8959400181492830594036945387520000 | future | [download](2025-09-16.tar.gz) |
+| nolgam14ww30eg...0savhxnh |   8724.0228781969502414830353949655040000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](2025-08-25-a.zip)    |
+| nolgam14ww30eg...0savhxnh |  41641.5022162210502477937162065018880000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](2025-08-25-a.zip)    |
+| nolgam1nurfm22...a7fqh2e4 |    196.5192491045784315991655716290560000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](2025-08-29.tar.gz)   |
+| nolgam1nurfm22...a7fqh2e4 | 272528.5609142930285424298709955706880000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [down](2025-08-31-a.tar.gz)[load](2025-09-10-a.tar.gz) |
+| nolgam1dkvqt69...hs5uw9kg |   5000.0000000000000000000000000000000000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](da496182bc8b5b549f08e0db03e4050ea849221ac1abfaf8792967f32391c7bd657614501af670b0.redeem) |
+| nolgam1z5052q2...2cfrxjym |   7775.0000000000000000000000000000000000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](6b7d8c646c20bd9d56dbd7db0fd7202008911da1de7e8638355d58d6cf0ab48.redeem) |
+| nolgam1dk90nz8...0kag8cd3 |  13677.0584600181393461737843636305920000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](2025-09-16.tar.gz) |
+| nolgam1dk90nz8...0kag8cd3 |  17986.8959400181492830594036945387520000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](2025-09-16.tar.gz) |
 
 
 ## Misc
