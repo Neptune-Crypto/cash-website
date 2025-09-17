@@ -119,6 +119,8 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1z5052q2...2cfrxjym |   7775.0000000000000000000000000000000000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](6b7d8c646c20bd9d56dbd7db0fd7202008911da1de7e8638355d58d6cf0ab48.redeem) |
 | nolgam1dk90nz8...0kag8cd3 |  13677.0584600181393461737843636305920000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](2025-09-16.tar.gz) |
 | nolgam1dk90nz8...0kag8cd3 |  17986.8959400181492830594036945387520000 | [6264/5](https://explorer.neptune.cash/announcement/digest/48c1c8cd67b2f99d20bf9338b869adc8d63dc7364c99aa9f71774056a339b608ab3a5b0100000000/5)       |                      | [download](2025-09-16.tar.gz) |
+| nolgam1v5xe5v7...cyxwllpq |    100.0000000000000000000000000000000000 | future | | [download](0003ea5c688dce56bebca59578ede4e260483b02bd6230da7226296410d622a.redeem) |
+
 
 
 ## Misc
