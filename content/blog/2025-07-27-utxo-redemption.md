@@ -137,7 +137,10 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1zkqy22u...nu6ud7yy |   2141.0499999999999525215135386828800000 | future | | [download](249cc76adbb7f9b735babf58545196bc35b67a3f50ee89c671ccbed735d9137dd554664a0affa9d9.redeem) |
 | nolgam1slm3lar...tw47xzaz |    128.0000000000000000000000000000000000 | future | | [download](2025-10-06-c.zip) |
 | nolgam1slm3lar...tw47xzaz |    128.0000000000000000000000000000000000 | future | | [download](2025-10-06-c.zip) |
-
+| nolgam186x0phd...8qe7ufj6 |     45.4399999999999971205336656773120000 | future | | [download](c068397a155873276c5729faa03c7edef562ad44e2287046add12fe9eefe46d7558d2c657e134f80.redeem) |
+| nolgam186x0phd...8qe7ufj6 |     45.4399999999999971205336656773120000 | future | | [download](c068397a155873276c5729faa03c7edef562ad44e2287046add12fe9eefe46d7558d2c657e134f80.redeem) |
+| nolgam1s8ark8g...zzjdxnnp |   2958.2200000000000000000000000000000000 | future | | [download](b7c3ec63fd1a17fceb3dfb865339636976f0fe6865a7e9ba1c11965b64bfe173d664b9298cebe8e1.redeem) |
+| nolgam1nwg43r3...rqlejd0p |  15611.1000000000000000000000000000000000 | future | Hodling till we've reached Kardashev type 2 | [down](0c0ed4e76465522f796faa65b17fc4f1fef97f9d31f6ac4217a78dda3228e92b1e6e305e600d215b.redeem)[load](36945a03551f3846775b19aec806a0b9c1f00e6494533ec3498fa2cb5080ab8c0727e30f05f37365.redeem) |
 
 ## Misc
 
