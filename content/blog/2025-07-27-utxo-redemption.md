@@ -140,6 +140,8 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam1s8ark8g...zzjdxnnp |   2958.2200000000000000000000000000000000 | [9300/11](https://explorer.neptune.cash/announcement/digest/65ebea0c9da0f1db053fecc3a1d43c9f1bfb29990ca58f2b326a97af33bb87089d28500000000000/11) | | [download](b7c3ec63fd1a17fceb3dfb865339636976f0fe6865a7e9ba1c11965b64bfe173d664b9298cebe8e1.redeem) |
 | nolgam1nwg43r3...rqlejd0p |  15611.1000000000000000000000000000000000 | [9300/11](https://explorer.neptune.cash/announcement/digest/65ebea0c9da0f1db053fecc3a1d43c9f1bfb29990ca58f2b326a97af33bb87089d28500000000000/11) | Hodling till we've reached Kardashev type 2 | [down](0c0ed4e76465522f796faa65b17fc4f1fef97f9d31f6ac4217a78dda3228e92b1e6e305e600d215b.redeem)[load](36945a03551f3846775b19aec806a0b9c1f00e6494533ec3498fa2cb5080ab8c0727e30f05f37365.redeem) |
 | nolgam15z7pd8h...jvzmnkw4 |    680.1300000000000000000000000000000000 | future | | [download](ac92d61d66a3868749044bda57a8dae5bfa8036d6ce0f425043eeb011585a15.redeem) |
+ nolgam1s0kdmkr...vcys6evx  |    542.0000000000000000000000000000000000 | future | thanks KAFFIN | [download](bca0b4cacb0602f02adfe43de70c318253a645d065f30187b2c9ac9711382bd41c0e46d5c52b4b5c.redeem) |
+| nolgam1lkdy5l5...az9jjmwl |   1102.9000000000000000000000000000000000 | future | | [download](ad40d5f40dfe07ac21cb9f5fa1b685e832ee9fc74a62eef2ba91c7ddb2c7846984937e02ec18041d.redeem) |
 
 ## Misc
 
