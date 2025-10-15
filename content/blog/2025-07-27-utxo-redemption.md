@@ -142,6 +142,15 @@ In the interest of transparency, all UTXO redemption claims and their associated
 | nolgam15z7pd8h...jvzmnkw4 |    680.1300000000000000000000000000000000 | future | | [download](ac92d61d66a3868749044bda57a8dae5bfa8036d6ce0f425043eeb011585a15.redeem) |
  nolgam1s0kdmkr...vcys6evx  |    542.0000000000000000000000000000000000 | future | thanks KAFFIN | [download](bca0b4cacb0602f02adfe43de70c318253a645d065f30187b2c9ac9711382bd41c0e46d5c52b4b5c.redeem) |
 | nolgam1lkdy5l5...az9jjmwl |   1102.9000000000000000000000000000000000 | future | | [download](ad40d5f40dfe07ac21cb9f5fa1b685e832ee9fc74a62eef2ba91c7ddb2c7846984937e02ec18041d.redeem) |
+| nolgam12wuntnh...xqtx80kk |      0.0000000000000000000000000000000000 | future | Thanks for the recovery:D | [download](2025-10-15-a.zip) |
+| nolgam12wuntnh...xqtx80kk |     45.4399999999999971205336656773120000 | future | | [download](2025-10-15-a.zip) |
+| nolgam1p80ek52...0snfd9q0 |     31.9999999999999993636920051630080000 | future | | [download](2025-10-15-a.zip) |
+| nolgam1p80ek52...0snfd9q0 |     31.9999999999999993636920051630080000 | future | | [download](2025-10-15-a.zip) |
+| nolgam1yj7vfqr...97ug0s5x |    254.7200000000000013140194744074240000 | future | | [download](2025-10-15-a.zip) |
+| nolgam1yj7vfqr...97ug0s5x |    254.7200000000000013140194744074240000 | future | | [download](2025-10-15-a.zip) |
+| nolgam1twrmp8t...cz28wnxh |    116.7280640000000170550907203747840000 | future | | [download](11e1df63a03592f1c3c08138303e2f70747d142a7be97ca6999607adfc339ae024f33f07f855999c.redeem) |
+| nolgam1twrmp8t...cz28wnxh |   2332.5051280000000722831893426339840000 | future | | [download](11e1df63a03592f1c3c08138303e2f70747d142a7be97ca6999607adfc339ae024f33f07f855999c.redeem) |
+
 
 ## Misc
 
