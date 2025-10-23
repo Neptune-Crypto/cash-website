@@ -2,6 +2,8 @@
 
 This site is made with [Zola][zola], a static site generator.
 
+**Note:** as of October 2025, [neptune.cash](https://neptune.cash/) lives as a typscript repository served by [bun](https://bun.com/).
+
 [zola]: https://www.getzola.org/
 
 ## Overview
